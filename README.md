@@ -10,8 +10,7 @@ Projects: Collaborative data-driven decision-making.
 
 Getting Started:
 
-📂 Folders: Organized structure for easy navigation.
-📊 Examples: Sample reports in the "Analysing Customer Churn" folder.
+📂 📊 Folders: Analysing Customer Churn
 
 
 ⭐️ Happy Analyzing!
