@@ -1,20 +1,35 @@
-📊 Power BI Repository
+# 📊 Power BI Repository
 
-Welcome to the Power BI repository! Explore insightful reports, dynamic dashboards, and collaborative projects. Dive into visual analytics that turn raw data into actionable insights.
+Welcome to the **Power BI Repository**!  
+Explore insightful reports, dynamic dashboards, and collaborative projects that transform raw data into actionable insights.
 
-Features:
+---
 
-Reports: In-depth analysis of diverse datasets.
-Dashboards: Interactive visuals for quick insights.
-Projects: Collaborative data-driven decision-making.
+## 🚀 Features
 
-Getting Started:
+- **Reports**: In-depth analysis of diverse datasets.  
+- **Dashboards**: Interactive visuals for quick and intuitive insights.  
+- **Projects**: Collaborative, data-driven decision-making tools.
 
-📂 📊 Folders: Analysing Customer Churn
-📂 📊 Folders: Sales Analysis 
-📂 📊 Folders: Supply Chain Analytics
+---
 
+## 📁 Folder Structure
 
+Each folder contains Power BI files and documentation relevant to a specific analysis topic:
 
+- 📂 **Analysing Customer Churn**  
+- 📂 **Sales Analysis**  
+- 📂 **Supply Chain Analytics**
 
-⭐️ Happy Analyzing!
+---
+
+## ✅ Getting Started
+
+1. Clone or download this repository.
+2. Open the `.pbix` files using Power BI Desktop.
+3. Explore the reports and dashboards, or customize them to suit your needs.
+
+---
+
+⭐️ **Happy Analyzing!**  
+Transform your data into insights that drive impact.
