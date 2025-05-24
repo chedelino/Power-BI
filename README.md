@@ -11,6 +11,10 @@ Projects: Collaborative data-driven decision-making.
 Getting Started:
 
 📂 📊 Folders: Analysing Customer Churn
+📂 📊 Folders: Sales Analysis 
+📂 📊 Folders: Supply Chain Analytics
+
+
 
 
 ⭐️ Happy Analyzing!
